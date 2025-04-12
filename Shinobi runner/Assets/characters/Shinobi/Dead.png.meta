@@ -125,20 +125,20 @@ TextureImporter:
       name: Dead_0
       rect:
         serializedVersion: 2
-        x: 38
+        x: 0
         y: 0
-        width: 37
-        height: 71
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 33123f4e07626c420800000000000000
-      internalID: 2649847697073447219
+      spriteID: 858ab65329de5894f9af76ef91eb0610
+      internalID: -1553557312
       vertices: []
       indices: 
       edges: []
@@ -147,20 +147,20 @@ TextureImporter:
       name: Dead_1
       rect:
         serializedVersion: 2
-        x: 165
+        x: 128
         y: 0
-        width: 39
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fc50d84dfa4b7ec80800000000000000
-      internalID: -8293461521501190705
+      spriteID: 9f7baf1d9239c1649846501fe7f57bdc
+      internalID: 1843950575
       vertices: []
       indices: 
       edges: []
@@ -169,20 +169,20 @@ TextureImporter:
       name: Dead_2
       rect:
         serializedVersion: 2
-        x: 294
+        x: 256
         y: 0
-        width: 50
-        height: 61
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7d6dfca117e4c59e0800000000000000
-      internalID: -1631342717326862633
+      spriteID: 7408c81f7ad2fc14495c095bc5a3cf47
+      internalID: -1589734812
       vertices: []
       indices: 
       edges: []
@@ -191,20 +191,20 @@ TextureImporter:
       name: Dead_3
       rect:
         serializedVersion: 2
-        x: 421
+        x: 384
         y: 0
-        width: 83
-        height: 16
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3f0289a377f3d79c0800000000000000
-      internalID: -3927913518680497933
+      spriteID: ca89e32dbeca34f43ab6b0630d2a1a49
+      internalID: -935438216
       vertices: []
       indices: 
       edges: []
@@ -213,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: eb5e349396998224995e30e81ceb205d
     internalID: 0
     vertices: []
     indices: 
@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dead_0: -1553557312
+      Dead_1: 1843950575
+      Dead_2: -1589734812
+      Dead_3: -935438216
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
